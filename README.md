@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelvin1599
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning and pursuing a bachelor degree of computer science
-- 💞️ I’m looking to collaborate on my couleagues' projectects on the context of computer science field
+- 💞️ I’m looking to collaborate on my couleagues' projects on the context of computer science field
 - 📫 You can reach me via phone: +255673261008 or email: kelvinisack99@gmail.com
 
 <!---
