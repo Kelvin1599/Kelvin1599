@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kelvin1599
+- 👋 Hi, I’m Kelvin
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning and pursuing a bachelor degree of computer science
 - 💞️ I’m looking to collaborate on my couleagues' projects on the context of computer science field
